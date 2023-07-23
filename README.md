@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Me chamo **Efraim Celes** e sou aluno do curso de formação **FullStack** [Cubos Academy](https://cubos.academy/). Nessa jornada de transição de carreira eu passei a buscar novos projetos, principalmente na área que mais me conquistou até esse momento, o **Front-end**. Além disso, busco aprender novidades e novas possibilidades de melhorar meu código, principalmente novas formas de deixar ele mais limpo e de fácil compreensão, com frequência.
+
 <!--
 **ECeles/ECeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
