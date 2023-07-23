@@ -1,13 +1,27 @@
-### Hi there 👋
+### Olá pessoal,
 
-Me chamo **Efraim Celes** e sou aluno do curso de formação **FullStack** [Cubos Academy](https://cubos.academy/). Nessa jornada de transição de carreira eu passei a buscar novos projetos, principalmente na área que mais me conquistou até esse momento, o **Front-end**. Além disso, busco aprender novidades e novas possibilidades de melhorar meu código, principalmente novas formas de deixar ele mais limpo e de fácil compreensão, com frequência.
+me chamo **Efraim Celes** e sou aluno do curso de formação **FullStack** [Cubos Academy](https://cubos.academy/). Nessa jornada de transição de carreira eu passei a buscar novos projetos, principalmente na área que mais me conquistou até esse momento, o **Front-end**. Além disso, busco aprender novidades e novas possibilidades de melhorar meu código, principalmente novas formas de deixar ele mais limpo e de fácil compreensão, com frequência.
 
 ## Você também pode me contatar através:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/efraim-celes-b92a8524b)
 
 # Hard Skills:
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 # Conhecimentos estudados:
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-gráfico
+
+![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![]()
+![]()
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ECeles&theme=tokyonight)
