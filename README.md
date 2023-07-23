@@ -21,7 +21,15 @@ me chamo **Efraim Celes** e sou aluno do curso de formação **FullStack** [Cubo
 
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![]()
-![]()
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ECeles&theme=tokyonight)
+
+
+
+# Veja meu último projeto finalizado :
+
+[Desafio Cubos Academy 03](https://github.com/ECeles/desafio-frontend-m03-ddst12)
+
+Lembrando, verifique o Readme para que não tenha dúvidas, obrigado!
+
+[Readme Project.md](https://github.com/ECeles/desafio-frontend-m03-ddst12/blob/main/README%20PROJECT.md)
